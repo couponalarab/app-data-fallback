@@ -1,0 +1,4321 @@
+{
+  "version": "1.0.0",
+  "updatedAt": "2026-11-10T13:24:56.460Z",
+  "announcementAr": "🎉 أقوى عروض اليوم في الرياض وجميع المدن - وفّر حتى 70% مع كبرى المتاجر العالمية والمحلية!",
+  "announcementEn": "🎉 Today's top offers in Riyadh and all cities - Save up to 70% on top global & local brands!",
+  "announcementBar": {
+    "message": {
+      "ar": "أحذية وحقائب خيالية",
+      "en": "Designer Heels & Bags"
+    },
+    "action": {
+      "type": "coupon",
+      "targetId": "c_1794314310761"
+    },
+    "items": [
+      {
+        "id": "ann-1794316855506-zrbg",
+        "text": {
+          "ar": "أحذية وحقائب خيالية",
+          "en": "Designer Heels & Bags"
+        },
+        "action": {
+          "type": "coupon",
+          "targetId": "c_1794314310761"
+        }
+      },
+      {
+        "id": "item-1",
+        "text": {
+          "ar": "خصومات على ألعاب الأطفال",
+          "en": "Discounts on Toys"
+        },
+        "action": {
+          "type": "coupon",
+          "targetId": "c_1794313384352"
+        }
+      },
+      {
+        "id": "ann-1794316910242-jp7n",
+        "text": {
+          "ar": "خصومات على أفخم العطور",
+          "en": "Discounts on Perfumes"
+        },
+        "action": {
+          "type": "coupon",
+          "targetId": "c_1794312550784"
+        }
+      },
+      {
+        "id": "ann-1794316983274-ol53",
+        "text": {
+          "ar": "توفير على منتجات الأمهات",
+          "en": "Discount on your baby products"
+        },
+        "action": {
+          "type": "coupon",
+          "targetId": "c_1794312191255"
+        }
+      }
+    ]
+  },
+  "welcomeStatement": {
+    "headline": {
+      "ar": "لقينا لك خصم!",
+      "en": "We have an offer for you!"
+    },
+    "subheadline": {
+      "ar": "لا يفوتك أقوى العروض والخصومات مع كوبون العرب!",
+      "en": "Don't miss our exclusive offers and discounts on top brands and stores."
+    }
+  },
+  "heroBanners": [
+    {
+      "id": "banner_1792139753666",
+      "imageUrl": "https://assets.levelshoes.com/cdn-cgi/image/width=720,height=1008,quality=85,format=webp/media/catalog/product/d/1/d191-black_2.jpg?ts=20260916023534",
+      "storeId": "level-shoes",
+      "badge": {
+        "text": {
+          "ar": "أخذية فخمة",
+          "en": "Designer Heels"
+        },
+        "textColor": "#FFFFFF",
+        "bgColor": "#08118c",
+        "icon": "flame"
+      },
+      "headline": {
+        "text": {
+          "ar": "خصم استثنائي 10% لفترة محدودة",
+          "en": "Special 50% OFF Limited Time"
+        },
+        "color": "#FFFFFF"
+      },
+      "subheadline": {
+        "text": {
+          "ar": "استمتعي بأقوى التخفيضات على أرقى الأحذية والحقائب",
+          "en": "Enjoy top savings with free delivery"
+        },
+        "color": "#F3F4F6"
+      },
+      "code": "PLD77",
+      "cta": {
+        "text": {
+          "ar": "احصلي على العرض",
+          "en": "Claim Offer"
+        },
+        "action": {
+          "type": "coupon",
+          "targetId": "c_1794314310761"
+        }
+      },
+      "overlayColor": "#064E3B",
+      "overlayOpacity": 0.65
+    }
+  ],
+  "featuredBrands": [
+    "bath-and-body-works",
+    "bloomingdales",
+    "foot-locker",
+    "h&m",
+    "huawei",
+    "level-shoes",
+    "metro-brazil",
+    "mumzworld",
+    "namshi",
+    "reef",
+    "osma",
+    "under-armour",
+    "victorias-secret",
+    "waffarha",
+    "noon",
+    "vogacloset"
+  ],
+  "hotDeals": [],
+  "categories": [
+    {
+      "id": "fashionandclothing",
+      "nameAr": "الأزياء والملابس",
+      "nameEn": "Fashion & Clothing",
+      "icon": "shirt",
+      "order": 1
+    },
+    {
+      "id": "shoesandfootwear",
+      "nameAr": "الأحذية",
+      "nameEn": "Shoes & Footwear",
+      "icon": "sport-shoe",
+      "order": 2
+    },
+    {
+      "id": "bagsandaccessories",
+      "nameAr": "الحقائب والإكسسوارات",
+      "nameEn": "Bags & Accessories",
+      "icon": "handbag",
+      "order": 3
+    },
+    {
+      "id": "beautyandpersonal care",
+      "nameAr": "الجمال والعناية الشخصية",
+      "nameEn": "Beauty & Personal Care",
+      "icon": "sparkles",
+      "order": 4
+    },
+    {
+      "id": "perfumesandfragrances",
+      "nameAr": "العطور",
+      "nameEn": "Perfumes & Fragrances",
+      "icon": "spray-can",
+      "order": 5
+    },
+    {
+      "id": "skincare",
+      "nameAr": "العناية بالبشرة",
+      "nameEn": "Skincare",
+      "icon": "tube-lotion",
+      "order": 6
+    },
+    {
+      "id": "haircare",
+      "nameAr": "العناية بالشعر",
+      "nameEn": "Hair Care",
+      "icon": "droplet",
+      "order": 7
+    },
+    {
+      "id": "makeup",
+      "nameAr": "المكياج",
+      "nameEn": "Makeup",
+      "icon": "brush",
+      "order": 8
+    },
+    {
+      "id": "healthandpharmacy",
+      "nameAr": "الصحة والصيدلية",
+      "nameEn": "Health & Pharmacy",
+      "icon": "heart-plus",
+      "order": 9
+    },
+    {
+      "id": "babyandmaternity",
+      "nameAr": "الأطفال والأمومة",
+      "nameEn": "Baby & Maternity",
+      "icon": "baby",
+      "order": 10
+    },
+    {
+      "id": "toysandkids",
+      "nameAr": "الألعاب والأطفال",
+      "nameEn": "Toys & Kids",
+      "icon": "toy-brick",
+      "order": 11
+    },
+    {
+      "id": "homeandfurniture",
+      "nameAr": "المنزل والأثاث",
+      "nameEn": "Home & Furniture",
+      "icon": "armchair",
+      "order": 12
+    },
+    {
+      "id": "homeappliances",
+      "nameAr": "الأجهزة المنزلية",
+      "nameEn": "Home Appliances",
+      "icon": "blender",
+      "order": 13
+    },
+    {
+      "id": "electronics",
+      "nameAr": "الإلكترونيات",
+      "nameEn": "Electronics",
+      "icon": "zap",
+      "order": 14
+    },
+    {
+      "id": "mobilesandaccessories",
+      "nameAr": "الهواتف والإكسسوارات",
+      "nameEn": "Mobiles & Accessories",
+      "icon": "smartphone",
+      "order": 15
+    },
+    {
+      "id": "sportsandfitness",
+      "nameAr": "الرياضة واللياقة",
+      "nameEn": "Sports & Fitness",
+      "icon": "volleyball",
+      "order": 16
+    },
+    {
+      "id": "groceriesandfood",
+      "nameAr": "البقالة والمواد الغذائية",
+      "nameEn": "Groceries & Food",
+      "icon": "apple",
+      "order": 17
+    },
+    {
+      "id": "restaurantsandcafés",
+      "nameAr": "المطاعم والمقاهي",
+      "nameEn": "Restaurants & Cafés",
+      "icon": "coffee",
+      "order": 18
+    },
+    {
+      "id": "travelandhotels",
+      "nameAr": "السفر والفنادق",
+      "nameEn": "Travel & Hotels",
+      "icon": "tickets-plane",
+      "order": 19
+    },
+    {
+      "id": "automotiveandtransportation",
+      "nameAr": "السيارات والتنقل",
+      "nameEn": "Automotive & Transportation",
+      "icon": "bridge",
+      "order": 20
+    },
+    {
+      "id": "jewelryandwatches",
+      "nameAr": "المجوهرات والساعات",
+      "nameEn": "Jewelry & Watches",
+      "icon": "watch",
+      "order": 21
+    },
+    {
+      "id": "homeandgarden",
+      "nameAr": "المنزل والحديقة",
+      "nameEn": "Home & Garden",
+      "icon": "plant-pot",
+      "order": 22
+    },
+    {
+      "id": "couponsanddeals",
+      "nameAr": "الكوبونات والعروض",
+      "nameEn": "Coupons & Deals",
+      "icon": "ticket-percent",
+      "order": 23
+    },
+    {
+      "id": "general",
+      "nameAr": "عام",
+      "nameEn": "General",
+      "icon": "shopping-bag",
+      "order": 24
+    },
+    {
+      "id": "eyewaer",
+      "nameAr": "النظارات",
+      "nameEn": "Eye wear",
+      "icon": "glasses",
+      "order": 25
+    },
+    {
+      "id": "gifts",
+      "nameAr": "هدايا",
+      "nameEn": "Gifts",
+      "icon": "gift",
+      "order": 26
+    }
+  ],
+  "stores": [
+    {
+      "id": "almajed-oud",
+      "nameAr": "الماجد للعود",
+      "nameEn": "Al Majed Oud",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/almajed-oud.webp",
+      "coverUrl": "https://cdn.files.salla.network/homepage/1049949872/3f60d098-681a-4ca2-8d06-9beac00c4b94-original.webp",
+      "category": "perfumesandfragrances",
+      "categories": [
+        "perfumesandfragrances",
+        "beautyandpersonal care"
+      ],
+      "countries": [
+        "SA"
+      ],
+      "websiteUrl": "https://sa.almajed4oud.com/ar/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "براند سعودي متخصص في العود والبخور والعطور العربية الفاخرة.",
+      "descriptionEn": "A Saudi brand for oud, incense, and luxury Arabian perfumes.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/almajed-oud.webp",
+      "bannerUrl": "https://cdn.files.salla.network/homepage/1049949872/3f60d098-681a-4ca2-8d06-9beac00c4b94-original.webp"
+    },
+    {
+      "id": "almatar",
+      "nameAr": "المطار",
+      "nameEn": "Almatar",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/almatar.webp",
+      "coverUrl": "https://cdn.almatar.com/landing-pages/Basic%20info-1791445420045.png",
+      "category": "travelandhotels",
+      "categories": [
+        "travelandhotels",
+        "automotiveandtransportation"
+      ],
+      "countries": [
+        "OM",
+        "BH",
+        "KW",
+        "QA",
+        "AE",
+        "SA"
+      ],
+      "websiteUrl": "https://almatar.com",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "منصة سفر لحجز تذاكر الطيران والفنادق والباقات السياحية.",
+      "descriptionEn": "A travel platform for booking flights, hotels, and holiday packages.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/almatar.webp",
+      "bannerUrl": "https://cdn.almatar.com/landing-pages/Basic%20info-1791445420045.png"
+    },
+    {
+      "id": "aloyayri-bedding",
+      "nameAr": "مفارش العييري",
+      "nameEn": "Aloyayri Bedding",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/aloyayri.webp",
+      "coverUrl": "https://cdn.files.salla.network/other/448478908/bc0ad6fd-a995-4127-87d3-21ac22807a71-original.webp",
+      "category": "homeandfurniture",
+      "categories": [
+        "homeandfurniture"
+      ],
+      "countries": [
+        "SA"
+      ],
+      "websiteUrl": "https://aloyayri.sa/ar",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "براند سعودي متخصص في المفارش والمراتب ومستلزمات النوم بجودة وأسعار منافسة.",
+      "descriptionEn": "A Saudi brand specializing in bedspreads, mattresses, and sleep essentials at competitive prices.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/aloyayri.webp",
+      "bannerUrl": "https://cdn.files.salla.network/other/448478908/bc0ad6fd-a995-4127-87d3-21ac22807a71-original.webp"
+    },
+    {
+      "id": "bath-and-body-works",
+      "nameAr": "باث أند بودي ووركس",
+      "nameEn": "Bath & Body Works",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/bath-and-body-works.webp",
+      "coverUrl": "https://www.bathandbodyworks.com/cs-images/v3/assets/blt5fcd10be721a0860/blta77cd0f58ab09206/h1_001501050_001597054_xct_sowxcat_sit_dfbxl_04_00.png?branch=web_prod&format=auto&quality=75&width=1536",
+      "category": "beautyandpersonal care",
+      "categories": [
+        "beautyandpersonal care",
+        "perfumesandfragrances",
+        "skincare",
+        "haircare",
+        "makeup"
+      ],
+      "countries": [
+        "SA",
+        "KW"
+      ],
+      "websiteUrl": "https://www.bathandbodyworks.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "براند أمريكي لعطور الجسم والعناية الشخصية والشموع المعطرة.",
+      "descriptionEn": "An American brand for fragrances, body care, and scented candles.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/bath-and-body-works.webp",
+      "bannerUrl": "https://www.bathandbodyworks.com/cs-images/v3/assets/blt5fcd10be721a0860/blta77cd0f58ab09206/h1_001501050_001597054_xct_sowxcat_sit_dfbxl_04_00.png?branch=web_prod&format=auto&quality=75&width=1536"
+    },
+    {
+      "id": "bloomingdales",
+      "nameAr": "بلومينغديلز",
+      "nameEn": "bloomindale's",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/bloomingdales.webp",
+      "coverUrl": "https://images.bloomingdalesassets.com/is/image/MacysInc/2026_NOV_The_Atelier_Holiday_Carousel_Browse_Banner_LE_EG?resMode=sharp2&qlt=85,0&fmt=webp&wid=2880&hei=928",
+      "category": "fashionandclothing",
+      "categories": [
+        "fashionandclothing",
+        "beautyandpersonal care",
+        "perfumesandfragrances",
+        "skincare",
+        "haircare",
+        "makeup",
+        "bagsandaccessories",
+        "shoesandfootwear"
+      ],
+      "countries": [
+        "AE",
+        "KW",
+        "SA"
+      ],
+      "websiteUrl": "https://www.bloomingdales.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "متجر متعدد الأقسام أمريكي فاخر للأزياء والجمال ومستلزمات المنزل.",
+      "descriptionEn": "An American luxury department store for fashion, beauty, and home.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/bloomingdales.webp",
+      "bannerUrl": "https://images.bloomingdalesassets.com/is/image/MacysInc/2026_NOV_The_Atelier_Holiday_Carousel_Browse_Banner_LE_EG?resMode=sharp2&qlt=85,0&fmt=webp&wid=2880&hei=928"
+    },
+    {
+      "id": "blueage",
+      "nameAr": "بلو ايدج",
+      "nameEn": "Blue Age",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/blueage.webp",
+      "coverUrl": "https://theblueage.com/cdn/shop/files/3_af6d047c-1d4c-4bde-bcb2-21c875f859e1.jpg?v=1793171145&width=1400",
+      "category": "fashionandclothing",
+      "categories": [
+        "fashionandclothing",
+        "bagsandaccessories"
+      ],
+      "countries": [
+        "SA"
+      ],
+      "websiteUrl": "https://theblueage.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "براند أزياء سعودي للموضة، يقدم تصاميم عصرية بطابع حضري وستريت بأسعار مناسبة.",
+      "descriptionEn": "A Saudi fast-fashion brand offering trendy urban and street styles at affordable prices.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/blueage.webp",
+      "bannerUrl": "https://theblueage.com/cdn/shop/files/3_af6d047c-1d4c-4bde-bcb2-21c875f859e1.jpg?v=1793171145&width=1400"
+    },
+    {
+      "id": "dabdoob",
+      "nameAr": "دبدوب",
+      "nameEn": "Dabdoob",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/dabdoob.webp",
+      "coverUrl": "https://dabdoob.com/_next/image?url=https%3A%2F%2Fdabdoob-cdn-primary.fra1.cdn.digitaloceanspaces.com%2Fmedia%2Fmaster%2Fwebsite_banner%2F96TpFG%2Fc5da1dc5-f6a6-4fa2-896c-b4f1f7c70afb_ROnUjBf6r.jpeg&w=1200&q=75",
+      "category": "toysandkids",
+      "categories": [
+        "toysandkids",
+        "babyandmaternity"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM"
+      ],
+      "websiteUrl": "https://dabdoob.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "متجر إلكتروني للألعاب وأزياء الأطفال ومنتجات الرضع.",
+      "descriptionEn": "An online store for toys, kids' fashion, and baby products.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/dabdoob.webp",
+      "bannerUrl": "https://dabdoob.com/_next/image?url=https%3A%2F%2Fdabdoob-cdn-primary.fra1.cdn.digitaloceanspaces.com%2Fmedia%2Fmaster%2Fwebsite_banner%2F96TpFG%2Fc5da1dc5-f6a6-4fa2-896c-b4f1f7c70afb_ROnUjBf6r.jpeg&w=1200&q=75"
+    },
+    {
+      "id": "dar-alamirat",
+      "nameAr": "دار الأميرات",
+      "nameEn": "Dar Alamirat",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/dar-alamirat.webp",
+      "coverUrl": "https://cdn.files.salla.network/homepage/1945128061/ef20ce5c-4d6c-4802-840b-af205c02bd0f-original.webp",
+      "category": "beautyandpersonal care",
+      "categories": [
+        "beautyandpersonal care",
+        "skincare",
+        "haircare",
+        "makeup",
+        "perfumesandfragrances"
+      ],
+      "countries": [
+        "SA"
+      ],
+      "websiteUrl": "https://daralamirat.com.sa/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "متجر سعودي رائد لمنتجات الجمال، يقدم المكياج والعناية بالبشرة والشعر والعطور من أشهر الماركات العالمية والإقليمية.",
+      "descriptionEn": "A leading Saudi beauty retailer offering makeup, skincare, hair care, and fragrances from top global and regional brands.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/dar-alamirat.webp",
+      "bannerUrl": "https://cdn.files.salla.network/homepage/1945128061/ef20ce5c-4d6c-4802-840b-af205c02bd0f-original.webp"
+    },
+    {
+      "id": "dkny",
+      "nameAr": "دكني",
+      "nameEn": "DKNY",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/dkny.webp",
+      "coverUrl": "https://www.dkny.com/cdn/shop/files/DKNY_DESKTOP_SLOT_2_1421dbfc-c9ae-44f7-96d4-adb843517ec9.jpg?v=1793202189&width=1500",
+      "category": "fashionandclothing",
+      "categories": [
+        "fashionandclothing",
+        "shoesandfootwear",
+        "bagsandaccessories",
+        "perfumesandfragrances"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW"
+      ],
+      "websiteUrl": "https://www.dkny.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "دار أزياء من نيويورك، معروفة بالطابع العصري الحضري في الملابس والحقائب والإكسسوارات.",
+      "descriptionEn": "A New York fashion house known for modern urban style in clothing, bags, and accessories.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/dkny.webp",
+      "bannerUrl": "https://www.dkny.com/cdn/shop/files/DKNY_DESKTOP_SLOT_2_1421dbfc-c9ae-44f7-96d4-adb843517ec9.jpg?v=1793202189&width=1500"
+    },
+    {
+      "id": "eyewa",
+      "nameAr": "أيوا",
+      "nameEn": "eyewa",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/eyewa.webp",
+      "coverUrl": "https://prd-cdn.eyewa.com/cdn-cgi/image/width=1440,quality=85,format=auto/https://cdn-ctf-new.eyewa.com/6ojdo2ue4qo1/34URIRDF2UuBHWjb0VEOeM/878bd3c7b5241d43d84332aeb080da73/EN__10_.png",
+      "category": "eyewaer",
+      "categories": [
+        "eyewaer"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM",
+        "EG"
+      ],
+      "websiteUrl": "https://eyewa.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "متجر إلكتروني رائد للنظارات الطبية والشمسية والعدسات اللاصقة.",
+      "descriptionEn": "A leading online store for eyeglasses, sunglasses, and contact lenses.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/eyewa.webp",
+      "bannerUrl": "https://prd-cdn.eyewa.com/cdn-cgi/image/width=1440,quality=85,format=auto/https://cdn-ctf-new.eyewa.com/6ojdo2ue4qo1/34URIRDF2UuBHWjb0VEOeM/878bd3c7b5241d43d84332aeb080da73/EN__10_.png"
+    },
+    {
+      "id": "fnp",
+      "nameAr": "اف ان بي",
+      "nameEn": "fnp",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/fnp.webp",
+      "coverUrl": "https://static-assets-prod.fnp.com/media/images/eb5e29ee.jpg",
+      "category": "gifts",
+      "categories": [
+        "gifts"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW"
+      ],
+      "websiteUrl": "https://www.fnp.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "براند هدايا يقدم الورد والكيك والهدايا المخصصة لكل المناسبات.",
+      "descriptionEn": "A gifting brand offering flowers, cakes, and personalized gifts for every occasion.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/fnp.webp",
+      "bannerUrl": "https://static-assets-prod.fnp.com/media/images/eb5e29ee.jpg"
+    },
+    {
+      "id": "foot-locker",
+      "nameAr": "فوت لوكر",
+      "nameEn": "Foot Locker",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/foot-locker.webp",
+      "coverUrl": "https://images.footlocker.com/content/dam/final/footlockereurope/Online_activations/fl-campaign/2023/2023_08_14_fl_omn_holiday_23/05_final_output_files/phase_1/striper_hub/2023_08_14_FL_OMN_Holiday_Striper_hub_story_1600x600.jpg",
+      "category": "shoesandfootwear",
+      "categories": [
+        "shoesandfootwear",
+        "fashionandclothing",
+        "sportsandfitness"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "QA",
+        "EG",
+        "BH"
+      ],
+      "websiteUrl": "https://www.footlocker.ae/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "متجر عالمي للأحذية الرياضية والملابس الرياضية من أشهر الماركات.",
+      "descriptionEn": "A global retailer for sneakers and sportswear from leading brands.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/foot-locker.webp",
+      "bannerUrl": "https://images.footlocker.com/content/dam/final/footlockereurope/Online_activations/fl-campaign/2023/2023_08_14_fl_omn_holiday_23/05_final_output_files/phase_1/striper_hub/2023_08_14_FL_OMN_Holiday_Striper_hub_story_1600x600.jpg"
+    },
+    {
+      "id": "go-sport",
+      "nameAr": "جو سبورت",
+      "nameEn": "Go Sport",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/go-sport.webp",
+      "coverUrl": "https://ksa.gosportme.com/cdn/shop/files/1080x1920_Training.jpg?v=1745403494&width=1080",
+      "category": "fashionandclothing",
+      "categories": [
+        "fashionandclothing",
+        "shoesandfootwear",
+        "bagsandaccessories",
+        "sportsandfitness"
+      ],
+      "countries": [
+        "SA",
+        "AE"
+      ],
+      "websiteUrl": "https://gosportme.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "متجر رياضي يقدم الأحذية والملابس والمعدات لجميع الرياضات.",
+      "descriptionEn": "A sports retailer offering footwear, apparel, and equipment for all sports.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/go-sport.webp",
+      "bannerUrl": "https://ksa.gosportme.com/cdn/shop/files/1080x1920_Training.jpg?v=1745403494&width=1080"
+    },
+    {
+      "id": "h&m",
+      "nameAr": "اتش أند ام",
+      "nameEn": "H&M",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/h&m.webp",
+      "coverUrl": "https://i.pinimg.com/474x/fe/7b/2c/fe7b2c23444d841df46f77e62f3854f3.jpg",
+      "category": "fashionandclothing",
+      "categories": [
+        "fashionandclothing",
+        "bagsandaccessories",
+        "shoesandfootwear",
+        "beautyandpersonal care"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW"
+      ],
+      "websiteUrl": "https://www.hm.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "براند أزياء سويدي يقدم ملابس عصرية بأسعار مناسبة للرجال والسيدات والأطفال.",
+      "descriptionEn": "A Swedish fashion retailer offering affordable trendy clothing for men, women, and kids.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/h&m.webp",
+      "bannerUrl": "https://i.pinimg.com/474x/fe/7b/2c/fe7b2c23444d841df46f77e62f3854f3.jpg"
+    },
+    {
+      "id": "homebox",
+      "nameAr": "هوم بوكس",
+      "nameEn": "Homebox",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/homebox.webp",
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV2mJKSdjycbKlS-m36NPRpA0eClG0_G3kZ9z2-RaVsg&s",
+      "category": "homeandfurniture",
+      "categories": [
+        "homeandfurniture"
+      ],
+      "countries": [
+        "SA",
+        "AE"
+      ],
+      "websiteUrl": "https://www.homeboxstores.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "متجر مستلزمات منزلية يقدم الأثاث والديكور وأدوات المطبخ بأسعار مناسبة.",
+      "descriptionEn": "A home-furnishing retailer offering furniture, décor, and kitchen essentials at great value.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/homebox.webp",
+      "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV2mJKSdjycbKlS-m36NPRpA0eClG0_G3kZ9z2-RaVsg&s"
+    },
+    {
+      "id": "homzmart",
+      "nameAr": "هومزمارت",
+      "nameEn": "Homzmart",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/homzmart.webp",
+      "coverUrl": "https://egy.homzmart.net/mageplaza/bannerslider/banner/image/m/a/main_banner-en-dt_89__1.jpg",
+      "category": "homeandfurniture",
+      "categories": [
+        "homeandfurniture"
+      ],
+      "countries": [
+        "EG"
+      ],
+      "websiteUrl": "https://homzmart.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "منصة مصرية إلكترونية للأثاث والديكور المنزلي.",
+      "descriptionEn": "An Egyptian online marketplace for furniture and home décor.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/homzmart.webp",
+      "bannerUrl": "https://egy.homzmart.net/mageplaza/bannerslider/banner/image/m/a/main_banner-en-dt_89__1.jpg"
+    },
+    {
+      "id": "huawei",
+      "nameAr": "هواوي",
+      "nameEn": "Huawei",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/huawei.webp",
+      "coverUrl": "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/homepage-x/new/0902-2026-huawei-innovative-product-launch/herobanner/watch-gt7-pro-pc.jpg",
+      "category": "mobilesandaccessories",
+      "categories": [
+        "mobilesandaccessories",
+        "electronics"
+      ],
+      "countries": [
+        "EG",
+        "SA"
+      ],
+      "websiteUrl": "https://consumer.huawei.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "شركة تكنولوجيا عالمية تنتج الهواتف الذكية والساعات واللابتوبات والتابلت.",
+      "descriptionEn": "A global tech company making smartphones, wearables, laptops, and tablets.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/huawei.webp",
+      "bannerUrl": "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/homepage-x/new/0902-2026-huawei-innovative-product-launch/herobanner/watch-gt7-pro-pc.jpg"
+    },
+    {
+      "id": "izil-beauty",
+      "nameAr": "أيزيل بيوتي ",
+      "nameEn": "Izil Beauty",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/izil-beauty.webp",
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSIc-Dph7E7siRM8RDU1-JIgbT2bUd1lnrFEO9eOkGoJMMTcoW5GQhXHms&s=10",
+      "category": "skincare",
+      "categories": [
+        "skincare",
+        "beautyandpersonal care",
+        "haircare",
+        "makeup"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM"
+      ],
+      "websiteUrl": "https://izilbeauty.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "براند عناية طبيعية بالبشرة والشعر مستوحى من طقوس الجمال المغربية العريقة، تأسس في دبي.",
+      "descriptionEn": "A natural skincare and hair care brand inspired by ancient Moroccan beauty rituals, founded in Dubai.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/izil-beauty.webp",
+      "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSIc-Dph7E7siRM8RDU1-JIgbT2bUd1lnrFEO9eOkGoJMMTcoW5GQhXHms&s=10"
+    },
+    {
+      "id": "jeeny",
+      "nameAr": "جيني",
+      "nameEn": "Jeeny",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/jeeny.webp",
+      "coverUrl": "https://play-lh.googleusercontent.com/9aFfJ_lu36GLKhItLJJ88QUEMY5H4UL78ZNNPYcoTeBzT-Sd2SdHVbVbzTegSZzTSHg=w3840-h2160-rw",
+      "category": "automotiveandtransportation",
+      "categories": [
+        "automotiveandtransportation"
+      ],
+      "countries": [
+        "SA"
+      ],
+      "websiteUrl": "https://www.jeeny.me/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "تطبيق لطلب المشاوير والتوصيل يوفر حلولًا يومية للتنقل والخدمات.",
+      "descriptionEn": "A ride-hailing and delivery app providing everyday transport and services.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/jeeny.webp",
+      "bannerUrl": "https://play-lh.googleusercontent.com/9aFfJ_lu36GLKhItLJJ88QUEMY5H4UL78ZNNPYcoTeBzT-Sd2SdHVbVbzTegSZzTSHg=w3840-h2160-rw"
+    },
+    {
+      "id": "kadi",
+      "nameAr": "بوتيك كادي",
+      "nameEn": "Kadi Boutique",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/kadi.webp",
+      "coverUrl": "https://kadi.ae/cdn/shop/files/1500x898_Web_Banner_1.png?v=1790581549&width=1500",
+      "category": "homeandfurniture",
+      "categories": [
+        "homeandfurniture",
+        "homeandgarden",
+        "gifts"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM"
+      ],
+      "websiteUrl": "https://kadi.ae/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "متجر رائد في دبي يقدم تشكيلة راقية من ديكورات المنازل العصرية، الأدوات المنزلية، تنسيقات الزهور الهدايا الفاخرة.",
+      "descriptionEn": "A premier Dubai-based boutique offering an exquisite collection of luxury home décor, elegant serveware, custom florals, and bespoke gifting.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/kadi.webp",
+      "bannerUrl": "https://kadi.ae/cdn/shop/files/1500x898_Web_Banner_1.png?v=1790581549&width=1500"
+    },
+    {
+      "id": "karam-alnakhil",
+      "nameAr": "كرم النخيل",
+      "nameEn": "Karam Alnakhil",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/karam-alnakhil.webp",
+      "coverUrl": "https://cdn.files.salla.network/other/1351013681/9ed8a7bf-5cee-4ab2-8ec1-44f736465582-original.webp",
+      "category": "groceriesandfood",
+      "categories": [
+        "groceriesandfood",
+        "restaurantsandcafés"
+      ],
+      "countries": [
+        "SA"
+      ],
+      "websiteUrl": "https://karamalnakhil.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "شركة من المدينة المنورة متخصصة في تعبئة وتصنيع التمور الفاخرة والمعمول.",
+      "descriptionEn": "A Madinah-based company specializing in premium packaged dates and maamoul.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/karam-alnakhil.webp",
+      "bannerUrl": "https://cdn.files.salla.network/other/1351013681/9ed8a7bf-5cee-4ab2-8ec1-44f736465582-original.webp"
+    },
+    {
+      "id": "level-shoes",
+      "nameAr": "ليفيل شوز",
+      "nameEn": "Level Shoes",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/level-shoes.webp",
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR28KNzDmUKuf03ZNdxKR5G_GKx5qduTS3Wa019FL-ortuS7sGwj_QxjLM&s=10",
+      "category": "shoesandfootwear",
+      "categories": [
+        "shoesandfootwear",
+        "bagsandaccessories"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM"
+      ],
+      "websiteUrl": "https://www.levelshoes.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "وجهة فاخرة للأحذية تضم أشهر الماركات العالمية.",
+      "descriptionEn": "A luxury footwear destination offering top international designer shoes.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/level-shoes.webp",
+      "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR28KNzDmUKuf03ZNdxKR5G_GKx5qduTS3Wa019FL-ortuS7sGwj_QxjLM&s=10"
+    },
+    {
+      "id": "max-fashion",
+      "nameAr": "ماكس فاشن",
+      "nameEn": "Max Fashion",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/max-fashion.webp",
+      "coverUrl": "https://media.maxfashion.com/i/max/Onboarding-KSA-UAE-KWD-QAR-Women-151026?w=810",
+      "category": "fashionandclothing",
+      "categories": [
+        "fashionandclothing"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM"
+      ],
+      "websiteUrl": "https://www.maxfashion.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "متجر أزياء شهير يقدم ملابس وإكسسوارات بأسعار مناسبة لكل العائلة.",
+      "descriptionEn": "A popular fashion retailer offering affordable clothing and accessories for the whole family.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/max-fashion.webp",
+      "bannerUrl": "https://media.maxfashion.com/i/max/Onboarding-KSA-UAE-KWD-QAR-Women-151026?w=810"
+    },
+    {
+      "id": "metro-brazil",
+      "nameAr": "مترو برازيل",
+      "nameEn": "Metro Brazil",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/metro-brazil.webp",
+      "coverUrl": "https://scdn.speedsize.com/10235506-ea6f-45bb-9e79-e12d03cda118/metrobrazil.com/cdn/shop/collections/METRO-BRAZIL-offers-840x840_2000x.png?v=1780645326",
+      "category": "fashionandclothing",
+      "categories": [
+        "fashionandclothing"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM"
+      ],
+      "websiteUrl": "https://metrobrazil.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "المتجر الأول لمنتجات المشدات الكولومبية والبرازيلية الأصلية، الملابس الرياضية، واللانجري المصمم لنحت الجسم وثقة الأناقة.",
+      "descriptionEn": "The ultimate destination for premium Brazilian and Colombian shapewear, activewear, and intimate apparel designed for visible elegance and invisible confidence.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/metro-brazil.webp",
+      "bannerUrl": "https://scdn.speedsize.com/10235506-ea6f-45bb-9e79-e12d03cda118/metrobrazil.com/cdn/shop/collections/METRO-BRAZIL-offers-840x840_2000x.png?v=1780645326"
+    },
+    {
+      "id": "mothercare",
+      "nameAr": "ماذر كير",
+      "nameEn": "Mothercare",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/mothercare.webp",
+      "coverUrl": "https://framerusercontent.com/images/HgeCZKCdhA5C6w7ePhU5Li31JLg.jpeg?scale-down-to=1024&width=1600&height=1067",
+      "category": "fashionandclothing",
+      "categories": [
+        "fashionandclothing",
+        "babyandmaternity",
+        "toysandkids"
+      ],
+      "countries": [
+        "SA",
+        "KW",
+        "QA",
+        "BH"
+      ],
+      "websiteUrl": "https://www.mothercare.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "براند بريطاني لمستلزمات الأطفال والأمهات، من الملابس إلى أثاث غرفة الطفل.",
+      "descriptionEn": "A British brand for baby and maternity essentials, from clothing to nursery gear.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/mothercare.webp",
+      "bannerUrl": "https://framerusercontent.com/images/HgeCZKCdhA5C6w7ePhU5Li31JLg.jpeg?scale-down-to=1024&width=1600&height=1067"
+    },
+    {
+      "id": "mumzworld",
+      "nameAr": "ممزورلد",
+      "nameEn": "Mumzworld",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/mumzworld.webp",
+      "coverUrl": "https://media-cms.mumzworld.com/DESKTOP_BANNERS_EN_LIFESTYLE_BANNER_11_11_LIVENOW_17_1_9880cf1242.jpg?format=webp&width=1920&height=410",
+      "category": "babyandmaternity",
+      "categories": [
+        "babyandmaternity",
+        "toysandkids"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM"
+      ],
+      "websiteUrl": "https://www.mumzworld.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "أكبر متجر إلكتروني في الشرق الأوسط للأمهات والأطفال، من مستلزمات الرضع إلى الألعاب.",
+      "descriptionEn": "The Middle East's largest online store for mothers, babies, and kids, from baby gear to toys.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/mumzworld.webp",
+      "bannerUrl": "https://media-cms.mumzworld.com/DESKTOP_BANNERS_EN_LIFESTYLE_BANNER_11_11_LIVENOW_17_1_9880cf1242.jpg?format=webp&width=1920&height=410"
+    },
+    {
+      "id": "myprotein",
+      "nameAr": "ماي بروتين",
+      "nameEn": "Myprotein",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/myprotein.webp",
+      "coverUrl": "https://www.myprotein.com/images?url=https://static.thcdn.com/widgets/83-en/13/original-Campaign_Teaser_Homepage_Banner-_1920x586px-105713.png&format=webp&auto=avif&width=1366&fit=cover",
+      "category": "sportsandfitness",
+      "categories": [
+        "sportsandfitness"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM"
+      ],
+      "websiteUrl": "https://www.myprotein.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "براند بريطاني للتغذية الرياضية يقدم البروتين والمكملات والوجبات الصحية.",
+      "descriptionEn": "A UK sports nutrition brand offering protein, supplements, and healthy snacks.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/myprotein.webp",
+      "bannerUrl": "https://www.myprotein.com/images?url=https://static.thcdn.com/widgets/83-en/13/original-Campaign_Teaser_Homepage_Banner-_1920x586px-105713.png&format=webp&auto=avif&width=1366&fit=cover"
+    },
+    {
+      "id": "nahdi",
+      "nameAr": "صيدلية النهدي",
+      "nameEn": "Nahdi Pharmacy",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/nahdi.webp",
+      "coverUrl": "https://dam.nahdionline.com/transform/e19ebb25-0ff4-44b6-b75d-7cc13417ea7a/05_HP_PC_8_Nov_Desktop_Commercial-10",
+      "category": "healthandpharmacy",
+      "categories": [
+        "healthandpharmacy",
+        "skincare",
+        "haircare",
+        "beautyandpersonal care"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM",
+        "EG"
+      ],
+      "websiteUrl": "https://www.nahdionline.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "أكبر سلسلة صيدليات في السعودية للأدوية ومنتجات الصحة والجمال.",
+      "descriptionEn": "Saudi Arabia's largest pharmacy chain for medicine, health, and beauty products.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/nahdi.webp",
+      "bannerUrl": "https://dam.nahdionline.com/transform/e19ebb25-0ff4-44b6-b75d-7cc13417ea7a/05_HP_PC_8_Nov_Desktop_Commercial-10"
+    },
+    {
+      "id": "namshi",
+      "nameAr": "نمشي",
+      "nameEn": "Namshi",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/namshi.webp",
+      "coverUrl": "https://f.nooncdn.com/s/app/com/namshi/images/desktop-women-v3.jpg?format=avif&width=1000",
+      "category": "fashionandclothing",
+      "categories": [
+        "fashionandclothing",
+        "shoesandfootwear",
+        "bagsandaccessories",
+        "beautyandpersonal care",
+        "makeup",
+        "haircare",
+        "skincare",
+        "perfumesandfragrances"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM"
+      ],
+      "websiteUrl": "https://www.namshi.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "متجر أزياء إلكتروني في المنطقة للملابس والأحذية والحقائب ومنتجات الجمال.",
+      "descriptionEn": "A Middle Eastern online fashion store for clothing, shoes, bags, and beauty.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/namshi.webp",
+      "bannerUrl": "https://f.nooncdn.com/s/app/com/namshi/images/desktop-women-v3.jpg?format=avif&width=1000"
+    },
+    {
+      "id": "naseem",
+      "nameAr": "نسيم",
+      "nameEn": "Naseem",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/naseem.webp",
+      "coverUrl": "https://cdn.naseemsa.com/media/wysiwyg/Ar_.png",
+      "category": "gifts",
+      "categories": [
+        "gifts",
+        "perfumesandfragrances"
+      ],
+      "countries": [
+        "SA"
+      ],
+      "websiteUrl": "https://naseemsa.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "براند سعودي للهدايا يقدم باقات الورد والكيك والشوكولاتة والهدايا المميزة مع توصيل في نفس اليوم.",
+      "descriptionEn": "A Saudi gifting brand offering fresh flower bouquets, cakes, chocolates, and gifts with same-day delivery.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/naseem.webp",
+      "bannerUrl": "https://cdn.naseemsa.com/media/wysiwyg/Ar_.png"
+    },
+    {
+      "id": "new-balance",
+      "nameAr": "نيو بالانس",
+      "nameEn": "New Balance",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/new-balance.webp",
+      "coverUrl": "https://www.newbalance.com/dw/image/v2/AAGI_PRD/on/demandware.static/-/Library-Sites-NBUS-NBCA/default/dw9ca13d8e/images/page-designer/2026/Holiday/HCB/NB-9470_HCB_FW_9060_2_Desktop_Image.jpg?sw=1616&sfrm=jpg",
+      "category": "fashionandclothing",
+      "categories": [
+        "fashionandclothing",
+        "shoesandfootwear",
+        "sportsandfitness",
+        "bagsandaccessories"
+      ],
+      "countries": [
+        "SA",
+        "QA",
+        "KW",
+        "BH"
+      ],
+      "websiteUrl": "https://www.newbalance.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "براند رياضي أمريكي مشهور بالأحذية الرياضية المريحة وأحذية الجري.",
+      "descriptionEn": "An American sportswear brand known for comfortable running shoes and sneakers.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/new-balance.webp",
+      "bannerUrl": "https://www.newbalance.com/dw/image/v2/AAGI_PRD/on/demandware.static/-/Library-Sites-NBUS-NBCA/default/dw9ca13d8e/images/page-designer/2026/Holiday/HCB/NB-9470_HCB_FW_9060_2_Desktop_Image.jpg?sw=1616&sfrm=jpg"
+    },
+    {
+      "id": "niceone",
+      "nameAr": "نايس ون",
+      "nameEn": "Niceone",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/niceone.webp",
+      "coverUrl": "https://d1aq4ubbxe020v.cloudfront.net/image/catalog%2Fapp_com%2F9982000_1793026127_d7adf5edf53e88b52c845430c08fe1bc-1500x1500.png?format=auto&width=1600",
+      "category": "beautyandpersonal care",
+      "categories": [
+        "beautyandpersonal care",
+        "haircare",
+        "skincare",
+        "perfumesandfragrances",
+        "makeup"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM"
+      ],
+      "websiteUrl": "https://niceonesa.com/en",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "متجر سعودي إلكتروني لمنتجات الجمال والمكياج والعناية بالبشرة والعطور.",
+      "descriptionEn": "A Saudi online store for beauty, makeup, skincare, and fragrances.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/niceone.webp",
+      "bannerUrl": "https://d1aq4ubbxe020v.cloudfront.net/image/catalog%2Fapp_com%2F9982000_1793026127_d7adf5edf53e88b52c845430c08fe1bc-1500x1500.png?format=auto&width=1600"
+    },
+    {
+      "id": "noon",
+      "nameAr": "نون",
+      "nameEn": "Noon",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/noon.webp",
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM-7glU9xe1_MRKscMYsmPMptQluC-HreyQ0ilJUHwIg&s=10",
+      "category": "fashionandclothing",
+      "categories": [
+        "fashionandclothing",
+        "shoesandfootwear",
+        "bagsandaccessories",
+        "beautyandpersonal care",
+        "makeup",
+        "haircare",
+        "skincare",
+        "perfumesandfragrances",
+        "babyandmaternity",
+        "toysandkids",
+        "homeandfurniture",
+        "sportsandfitness",
+        "homeappliances",
+        "electronics",
+        "mobilesandaccessories",
+        "jewelryandwatches",
+        "homeandgarden",
+        "general",
+        "eyewaer"
+      ],
+      "countries": [
+        "AE",
+        "SA",
+        "EG"
+      ],
+      "websiteUrl": "https://www.noon.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "منصة تسوق إلكترونية رائدة في المنطقة للإلكترونيات والأزياء والجمال والمنزل والبقالة.",
+      "descriptionEn": "A leading Middle Eastern online marketplace for electronics, fashion, beauty, home, and groceries.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/noon.webp",
+      "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM-7glU9xe1_MRKscMYsmPMptQluC-HreyQ0ilJUHwIg&s=10"
+    },
+    {
+      "id": "osma",
+      "nameAr": "عطور أوسما",
+      "nameEn": "Osma Perfumes",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/osma.webp",
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR6ravxRqOWFRKXHr38BqlvbV_aL7ESiXlNneo0KPu9A&s=10",
+      "category": "perfumesandfragrances",
+      "categories": [
+        "perfumesandfragrances"
+      ],
+      "countries": [
+        "SA"
+      ],
+      "websiteUrl": "https://sa.osmaperfumes.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "براند عطور سعودي يقدم عطورًا عصرية للرجال والسيدات، بتشكيلة تتنوع بين الحمضيات المنعشة والزهور والمسك والعنبر والخشبيات الدافئة.",
+      "descriptionEn": "A Saudi fragrance brand offering modern eau de parfum for men and women, with scents ranging from fresh citrus and floral to warm musk, amber, and woody notes.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/osma.webp",
+      "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR6ravxRqOWFRKXHr38BqlvbV_aL7ESiXlNneo0KPu9A&s=10"
+    },
+    {
+      "id": "raising-canes",
+      "nameAr": "ريزنج كينز",
+      "nameEn": "Raising Cane's",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/raising-canes.webp",
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI8MTff57Zv1WNqEkfEvfc0zEcicqWhm09qwj2lDjKPg&s=10",
+      "category": "restaurantsandcafés",
+      "categories": [
+        "restaurantsandcafés"
+      ],
+      "countries": [
+        "SA"
+      ],
+      "websiteUrl": "https://www.raisingcanesme.com/en/storelocator/rc-rsm-ksa",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "سلسلة مطاعم وجبات سريعة أمريكية، مشهورة بأصابع الدجاج وصوصها المميز.",
+      "descriptionEn": "An American fast-food chain famous for chicken fingers and its signature sauce.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/raising-canes.webp",
+      "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI8MTff57Zv1WNqEkfEvfc0zEcicqWhm09qwj2lDjKPg&s=10"
+    },
+    {
+      "id": "reef",
+      "nameAr": "ريف للعطور",
+      "nameEn": "Reef Perfumes",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/reef.webp",
+      "coverUrl": "https://metrojaya.com.my/cdn/shop/files/REEF33_100ml.png?v=1777342089",
+      "category": "perfumesandfragrances",
+      "categories": [
+        "perfumesandfragrances"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM"
+      ],
+      "websiteUrl": "https://reefperfumes.com/ar",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "دار عطور سعودية تقدم عطورًا فاخرة مستوحاة من التراث العربي.",
+      "descriptionEn": "A Saudi fragrance house offering luxury perfumes inspired by Arabian heritage.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/reef.webp",
+      "bannerUrl": "https://metrojaya.com.my/cdn/shop/files/REEF33_100ml.png?v=1777342089"
+    },
+    {
+      "id": "rina",
+      "nameAr": "رينا فاشن",
+      "nameEn": "Rina Fashion",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/rina.webp",
+      "coverUrl": "https://rinafashion.com/cdn/shop/files/block_2_eng.png?v=1793277759&width=800",
+      "category": "fashionandclothing",
+      "categories": [
+        "fashionandclothing",
+        "bagsandaccessories",
+        "shoesandfootwear"
+      ],
+      "countries": [
+        "SA"
+      ],
+      "websiteUrl": "https://rinafashion.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "براند أزياء نسائي سعودي يقدم ملابس وأحذية وإكسسوارات عصرية ومحتشمة، بإلهام من الثقافة العربية.",
+      "descriptionEn": "A Saudi women's fashion brand offering modest, contemporary clothing, shoes, and accessories inspired by Arab heritage.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/rina.webp",
+      "bannerUrl": "https://rinafashion.com/cdn/shop/files/block_2_eng.png?v=1793277759&width=800"
+    },
+    {
+      "id": "samsung",
+      "nameAr": "سامسونج",
+      "nameEn": "Samsung",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/samsung.webp",
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN2qU4j4Fd7qYLZf8p21hwOEAtXPbCw7IbdkZroswoLw&s=10",
+      "category": "electronics",
+      "categories": [
+        "electronics",
+        "mobilesandaccessories",
+        "homeappliances"
+      ],
+      "countries": [
+        "SA"
+      ],
+      "websiteUrl": "https://www.samsung.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "شركة إلكترونيات عالمية رائدة في الهواتف الذكية والتلفزيونات والأجهزة المنزلية.",
+      "descriptionEn": "A global electronics leader making smartphones, TVs, and home appliances.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/samsung.webp",
+      "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN2qU4j4Fd7qYLZf8p21hwOEAtXPbCw7IbdkZroswoLw&s=10"
+    },
+    {
+      "id": "steve-madden",
+      "nameAr": "ستيف مادن",
+      "nameEn": "Steve Madden",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/steve-madden.webp",
+      "coverUrl": "https://images.contentstack.io/v3/assets/blt563c8045b0161467/blt8e5d511fa2c94bf7/6ae0da5c70e4a54fb8903eeb/DT_SM_InfGiftGuide_Tile_4inthe5.jpg?auto=webp&quality=80&width=1200",
+      "category": "fashionandclothing",
+      "categories": [
+        "fashionandclothing",
+        "shoesandfootwear",
+        "bagsandaccessories"
+      ],
+      "countries": [
+        "AE",
+        "SA"
+      ],
+      "websiteUrl": "https://www.stevemadden.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "براند أمريكي مشهور بالأحذية والحقائب والإكسسوارات العصرية.",
+      "descriptionEn": "An American brand known for trendy shoes, bags, and accessories.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/steve-madden.webp",
+      "bannerUrl": "https://images.contentstack.io/v3/assets/blt563c8045b0161467/blt8e5d511fa2c94bf7/6ae0da5c70e4a54fb8903eeb/DT_SM_InfGiftGuide_Tile_4inthe5.jpg?auto=webp&quality=80&width=1200"
+    },
+    {
+      "id": "styli",
+      "nameAr": "ستايلي",
+      "nameEn": "Styli",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/styli.webp",
+      "coverUrl": "https://m.stylishop.com/cdn-cgi/image/format=avif/strapi/images/flannel_ar_75afb45509/flannel_ar_75afb45509.png",
+      "category": "fashionandclothing",
+      "categories": [
+        "fashionandclothing",
+        "shoesandfootwear",
+        "bagsandaccessories",
+        "beautyandpersonal care",
+        "skincare",
+        "haircare",
+        "makeup",
+        "perfumesandfragrances"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM",
+        "EG"
+      ],
+      "websiteUrl": "https://stylishop.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "منصة أزياء إلكترونية سريعة النمو تقدم موضة عصرية للسيدات والرجال والأطفال.",
+      "descriptionEn": "A fast-growing online fashion platform offering trendy styles for women, men, and kids.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/styli.webp",
+      "bannerUrl": "https://m.stylishop.com/cdn-cgi/image/format=avif/strapi/images/flannel_ar_75afb45509/flannel_ar_75afb45509.png"
+    },
+    {
+      "id": "sun-and-sand",
+      "nameAr": "سان اند ساند سبورتس",
+      "nameEn": "Sun & Sand Sports",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/sun-and-sand.webp",
+      "coverUrl": "https://en-ae.sssports.com/on/demandware.static/-/Library-Sites-UAE-SharedLibrary/default/dwa011e559/2026/45/ssn/uae-primary-banner/SSN_UAEBANK_HP_DESK_EN.jpg",
+      "category": "fashionandclothing",
+      "categories": [
+        "fashionandclothing",
+        "shoesandfootwear",
+        "bagsandaccessories",
+        "sportsandfitness"
+      ],
+      "countries": [
+        "KW",
+        "AE",
+        "SA"
+      ],
+      "websiteUrl": "https://en-ae.sssports.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "من أكبر متاجر الرياضة في المنطقة، يضم أشهر الماركات في الأحذية والملابس والمعدات.",
+      "descriptionEn": "The Middle East's leading sports retailer, with top brands in footwear, apparel, and equipment.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/sun-and-sand.webp",
+      "bannerUrl": "https://en-ae.sssports.com/on/demandware.static/-/Library-Sites-UAE-SharedLibrary/default/dwa011e559/2026/45/ssn/uae-primary-banner/SSN_UAEBANK_HP_DESK_EN.jpg"
+    },
+    {
+      "id": "the-body-shop",
+      "nameAr": "ذا بودي شوب",
+      "nameEn": "The Body Shop",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/the-body-shop.webp",
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUenSwqb6h2xRqftzZ35ifIWogs0oFezSManKWSmZUjQ&shttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUenSwqb6h2xRqftzZ35ifIWogs0oFezSManKWSmZUjQ&s",
+      "category": "beautyandpersonal care",
+      "categories": [
+        "beautyandpersonal care",
+        "perfumesandfragrances",
+        "skincare",
+        "haircare",
+        "makeup"
+      ],
+      "countries": [
+        "SA",
+        "AE"
+      ],
+      "websiteUrl": "https://www.thebodyshop.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "براند جمال بريطاني ، منتجات عناية بالبشرة والجسم بمكونات طبيعية.",
+      "descriptionEn": "A British cruelty-free beauty brand with skincare and body care made from natural ingredients.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/the-body-shop.webp",
+      "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUenSwqb6h2xRqftzZ35ifIWogs0oFezSManKWSmZUjQ&shttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUenSwqb6h2xRqftzZ35ifIWogs0oFezSManKWSmZUjQ&s"
+    },
+    {
+      "id": "under-armour",
+      "nameAr": "أندر أرمور",
+      "nameEn": "Under Armour",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/under-armour.webp",
+      "coverUrl": "https://underarmour.scene7.com/is/image/Underarmour/FW26_Q4_Holiday_WYF_W_Meridian_Bucket_4_5_3?qlt=85&wid=767&hei=959",
+      "category": "fashionandclothing",
+      "categories": [
+        "fashionandclothing",
+        "shoesandfootwear",
+        "bagsandaccessories",
+        "sportsandfitness"
+      ],
+      "countries": [
+        "SA",
+        "AE"
+      ],
+      "websiteUrl": "https://www.underarmour.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "براند أمريكي للملابس والأحذية الرياضية عالية الأداء للتمرين.",
+      "descriptionEn": "An American performance sportswear brand for training and athletic gear.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/under-armour.webp",
+      "bannerUrl": "https://underarmour.scene7.com/is/image/Underarmour/FW26_Q4_Holiday_WYF_W_Meridian_Bucket_4_5_3?qlt=85&wid=767&hei=959"
+    },
+    {
+      "id": "victorias-secret",
+      "nameAr": "فيكتوريا سيكريت",
+      "nameEn": "Victoria's Secret",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/victorias-secret.webp",
+      "coverUrl": "https://www.miraclemileshopslv.com/wp-content/uploads/2021/08/victorias_secret.f1cb27a519bdb5b6ed34049a5b86e317-768x768.jpg",
+      "category": "fashionandclothing",
+      "categories": [
+        "fashionandclothing",
+        "bagsandaccessories",
+        "beautyandpersonal care",
+        "perfumesandfragrances",
+        "shoesandfootwear"
+      ],
+      "countries": [
+        "QA",
+        "KW",
+        "SA",
+        "AE"
+      ],
+      "websiteUrl": "https://www.victoriassecret.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "براند أمريكي للملابس الداخلية وملابس النوم ومنتجات الجمال والعطور.",
+      "descriptionEn": "An American brand for lingerie, sleepwear, beauty, and fragrances.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/victorias-secret.webp",
+      "bannerUrl": "https://www.miraclemileshopslv.com/wp-content/uploads/2021/08/victorias_secret.f1cb27a519bdb5b6ed34049a5b86e317-768x768.jpg"
+    },
+    {
+      "id": "vogacloset",
+      "nameAr": "فوغا كلوسيت",
+      "nameEn": "VogaCloset",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/vogacloset.webp",
+      "coverUrl": "https://insiderone.com/assets/media/2024/01/vogacloset_one.png",
+      "category": "fashionandclothing",
+      "categories": [
+        "fashionandclothing",
+        "shoesandfootwear",
+        "bagsandaccessories",
+        "beautyandpersonal care",
+        "perfumesandfragrances",
+        "skincare",
+        "haircare",
+        "makeup"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM",
+        "EG"
+      ],
+      "websiteUrl": "https://vogacloset.com/",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "وجهة أزياء إلكترونية فاخرة لماركات الملابس والحقائب والإكسسوارات.",
+      "descriptionEn": "A luxury online fashion destination for designer clothing, bags, and accessories.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/vogacloset.webp",
+      "bannerUrl": "https://insiderone.com/assets/media/2024/01/vogacloset_one.png"
+    },
+    {
+      "id": "waffarha",
+      "nameAr": "وفرها",
+      "nameEn": "Waffarha",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/waffarha.webp",
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ-rXHdSka-V69nUFLPFVNJVxaM3X7CVFk-1uBpAJU6zfF4UJ_EiFAVdE&s=10",
+      "category": "couponsanddeals",
+      "categories": [
+        "couponsanddeals"
+      ],
+      "countries": [
+        "EG",
+        "SA"
+      ],
+      "websiteUrl": "https://landing.waffarha.com/en",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "منصة للكاش باك والعروض، بتوفرلك فلوس عند التسوق من مئات المتاجر.",
+      "descriptionEn": "Cashback and deals platform that saves you money at hundreds of stores.",
+      "isFeatured": true,
+      "tags": [],
+      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/waffarha.webp",
+      "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ-rXHdSka-V69nUFLPFVNJVxaM3X7CVFk-1uBpAJU6zfF4UJ_EiFAVdE&s=10"
+    }
+  ],
+  "coupons": [
+    {
+      "id": "c_1794312191255",
+      "storeId": "mumzworld",
+      "categoryId": "babyandmaternity",
+      "categoryIds": [
+        "babyandmaternity",
+        "toysandkids"
+      ],
+      "categories": [
+        "babyandmaternity",
+        "toysandkids"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM"
+      ],
+      "code": "BF6",
+      "discount": "10% خصم",
+      "discountType": "percentage",
+      "discountValue": "10",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 10% على جميع المنتجات",
+      "titleEn": "10% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى ممزورلد",
+          "titleEn": "Visit Mumzworld",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794312483888",
+      "storeId": "homebox",
+      "categoryId": "homeandfurniture",
+      "categoryIds": [
+        "homeandfurniture"
+      ],
+      "categories": [
+        "homeandfurniture"
+      ],
+      "countries": [
+        "SA",
+        "AE"
+      ],
+      "code": "NJ5",
+      "discount": "5% خصم",
+      "discountType": "percentage",
+      "discountValue": "5",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 5% على جميع المنتجات",
+      "titleEn": "5% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى هوم بوكس",
+          "titleEn": "Visit Homebox",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794312550784",
+      "storeId": "osma",
+      "categoryId": "perfumesandfragrances",
+      "categoryIds": [
+        "perfumesandfragrances"
+      ],
+      "categories": [
+        "perfumesandfragrances"
+      ],
+      "countries": [
+        "SA"
+      ],
+      "code": "BBT1",
+      "discount": "10ر.س خصم",
+      "discountType": "fixed",
+      "discountValue": "10",
+      "discountUnit": "currency",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 10 ريال",
+      "titleEn": "10 SAR OFF",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى عطور أوسما",
+          "titleEn": "Visit Osma Perfumes",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794312707711",
+      "storeId": "niceone",
+      "categoryId": "beautyandpersonal care",
+      "categoryIds": [
+        "beautyandpersonal care",
+        "haircare",
+        "skincare",
+        "perfumesandfragrances",
+        "makeup"
+      ],
+      "categories": [
+        "beautyandpersonal care",
+        "haircare",
+        "skincare",
+        "perfumesandfragrances",
+        "makeup"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM"
+      ],
+      "code": "NE11",
+      "discount": "10% خصم",
+      "discountType": "percentage",
+      "discountValue": "10",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 10% على جميع المنتجات",
+      "titleEn": "10% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى نايس ون",
+          "titleEn": "Visit Niceone",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794313048528",
+      "storeId": "max-fashion",
+      "categoryId": "fashionandclothing",
+      "categoryIds": [
+        "fashionandclothing"
+      ],
+      "categories": [
+        "fashionandclothing"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM"
+      ],
+      "code": "SV8",
+      "discount": "10% خصم",
+      "discountType": "percentage",
+      "discountValue": "10",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 10% على جميع المنتجات",
+      "titleEn": "10% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى ماكس فاشن",
+          "titleEn": "Visit Max Fashion",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794313140088",
+      "storeId": "noon",
+      "categoryId": "fashionandclothing",
+      "categoryIds": [
+        "fashionandclothing",
+        "shoesandfootwear",
+        "bagsandaccessories",
+        "beautyandpersonal care",
+        "makeup",
+        "haircare",
+        "skincare",
+        "perfumesandfragrances",
+        "babyandmaternity",
+        "toysandkids",
+        "homeandfurniture",
+        "sportsandfitness",
+        "homeappliances",
+        "electronics",
+        "mobilesandaccessories",
+        "jewelryandwatches",
+        "homeandgarden",
+        "general",
+        "eyewaer"
+      ],
+      "categories": [
+        "fashionandclothing",
+        "shoesandfootwear",
+        "bagsandaccessories",
+        "beautyandpersonal care",
+        "makeup",
+        "haircare",
+        "skincare",
+        "perfumesandfragrances",
+        "babyandmaternity",
+        "toysandkids",
+        "homeandfurniture",
+        "sportsandfitness",
+        "homeappliances",
+        "electronics",
+        "mobilesandaccessories",
+        "jewelryandwatches",
+        "homeandgarden",
+        "general",
+        "eyewaer"
+      ],
+      "countries": [
+        "AE",
+        "SA"
+      ],
+      "code": "GNT25",
+      "discount": "10% كاش باك",
+      "discountType": "percentage",
+      "discountValue": "10",
+      "discountUnit": "percentage",
+      "offerType": "cashback",
+      "badges": [],
+      "titleAr": "كاش باك 10% على جميع المنتجات",
+      "titleEn": "10% cashback on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى نون",
+          "titleEn": "Visit Noon",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794313237792",
+      "storeId": "dar-alamirat",
+      "categoryId": "beautyandpersonal care",
+      "categoryIds": [
+        "beautyandpersonal care",
+        "skincare",
+        "haircare",
+        "makeup",
+        "perfumesandfragrances"
+      ],
+      "categories": [
+        "beautyandpersonal care",
+        "skincare",
+        "haircare",
+        "makeup",
+        "perfumesandfragrances"
+      ],
+      "countries": [
+        "SA"
+      ],
+      "code": "MB7",
+      "discount": "3% خصم",
+      "discountType": "percentage",
+      "discountValue": "3",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 3% على جميع المنتجات",
+      "titleEn": "3% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى دار الأميرات",
+          "titleEn": "Visit Dar Alamirat",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794313334392",
+      "storeId": "reef",
+      "categoryId": "perfumesandfragrances",
+      "categoryIds": [
+        "perfumesandfragrances"
+      ],
+      "categories": [
+        "perfumesandfragrances"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM"
+      ],
+      "code": "ZXX8",
+      "discount": "5% خصم",
+      "discountType": "percentage",
+      "discountValue": "5",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 5% على جميع المنتجات",
+      "titleEn": "5% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى ريف للعطور",
+          "titleEn": "Visit Reef Perfumes",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794313384352",
+      "storeId": "dabdoob",
+      "categoryId": "toysandkids",
+      "categoryIds": [
+        "toysandkids",
+        "babyandmaternity"
+      ],
+      "categories": [
+        "toysandkids",
+        "babyandmaternity"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM"
+      ],
+      "code": "SSAH",
+      "discount": "15% خصم",
+      "discountType": "percentage",
+      "discountValue": "15",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 15% على جميع المنتجات",
+      "titleEn": "15% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى دبدوب",
+          "titleEn": "Visit Dabdoob",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794313439616",
+      "storeId": "homzmart",
+      "categoryId": "homeandfurniture",
+      "categoryIds": [
+        "homeandfurniture"
+      ],
+      "categories": [
+        "homeandfurniture"
+      ],
+      "countries": [
+        "EG"
+      ],
+      "code": "GN32",
+      "discount": "20% خصم",
+      "discountType": "percentage",
+      "discountValue": 20,
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 20% على جميع المنتجات",
+      "titleEn": "20% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى هومزمارت",
+          "titleEn": "Visit Homzmart",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794313538936",
+      "storeId": "go-sport",
+      "categoryId": "fashionandclothing",
+      "categoryIds": [
+        "fashionandclothing",
+        "shoesandfootwear",
+        "bagsandaccessories",
+        "sportsandfitness"
+      ],
+      "categories": [
+        "fashionandclothing",
+        "shoesandfootwear",
+        "bagsandaccessories",
+        "sportsandfitness"
+      ],
+      "countries": [
+        "SA",
+        "AE"
+      ],
+      "code": "SR6",
+      "discount": "10% خصم",
+      "discountType": "percentage",
+      "discountValue": "10",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 10% على جميع المنتجات",
+      "titleEn": "10% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى جو سبورت",
+          "titleEn": "Visit Go Sport",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794313712168",
+      "storeId": "almajed-oud",
+      "categoryId": "perfumesandfragrances",
+      "categoryIds": [
+        "perfumesandfragrances",
+        "beautyandpersonal care"
+      ],
+      "categories": [
+        "perfumesandfragrances",
+        "beautyandpersonal care"
+      ],
+      "countries": [
+        "SA"
+      ],
+      "code": "PF28",
+      "discount": "30ر.س خصم",
+      "discountType": "fixed",
+      "discountValue": "30",
+      "discountUnit": "currency",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 30 ريال على جميع المنتجات",
+      "titleEn": "30 SAR on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى الماجد للعود",
+          "titleEn": "Visit Al Majed Oud",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794313785952",
+      "storeId": "aloyayri-bedding",
+      "categoryId": "homeandfurniture",
+      "categoryIds": [
+        "homeandfurniture"
+      ],
+      "categories": [
+        "homeandfurniture"
+      ],
+      "countries": [
+        "SA"
+      ],
+      "code": "GN99",
+      "discount": "10% خصم",
+      "discountType": "percentage",
+      "discountValue": "10",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badge": {
+        "text": {
+          "ar": "توصيل مجاني ",
+          "en": "Free Delivery "
+        },
+        "bgColor": "#2563EB",
+        "textColor": "#FFFFFF",
+        "icon": "truck"
+      },
+      "badges": [
+        {
+          "text": {
+            "ar": "توصيل مجاني ",
+            "en": "Free Delivery "
+          },
+          "bgColor": "#2563EB",
+          "textColor": "#FFFFFF",
+          "icon": "truck"
+        }
+      ],
+      "titleAr": "خصم 10% على جميع المنتجات + توصيل مجاني",
+      "titleEn": "10% OFF on all products + Free shipping",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى مفارش العييري",
+          "titleEn": "Visit Aloyayri Bedding",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794313930841",
+      "storeId": "almatar",
+      "categoryId": "travelandhotels",
+      "categoryIds": [
+        "travelandhotels",
+        "automotiveandtransportation"
+      ],
+      "categories": [
+        "travelandhotels",
+        "automotiveandtransportation"
+      ],
+      "countries": [
+        "OM",
+        "BH",
+        "KW",
+        "QA",
+        "AE",
+        "SA"
+      ],
+      "code": "FM2",
+      "discount": "7% خصم",
+      "discountType": "percentage",
+      "discountValue": "7",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 7% على الفنادق و 5% على الرحلات",
+      "titleEn": "7% Off Hotels | 5% Cashback on Flights",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى المطار",
+          "titleEn": "Visit Almatar",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794314033976",
+      "storeId": "metro-brazil",
+      "categoryId": "fashionandclothing",
+      "categoryIds": [
+        "fashionandclothing"
+      ],
+      "categories": [
+        "fashionandclothing"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM"
+      ],
+      "code": "PF42",
+      "discount": "10% خصم",
+      "discountType": "percentage",
+      "discountValue": "10",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 10% على جميع المنتجات",
+      "titleEn": "10% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى مترو برازيل",
+          "titleEn": "Visit Metro Brazil",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794314115632",
+      "storeId": "namshi",
+      "categoryId": "fashionandclothing",
+      "categoryIds": [
+        "fashionandclothing",
+        "shoesandfootwear",
+        "bagsandaccessories",
+        "beautyandpersonal care",
+        "makeup",
+        "haircare",
+        "skincare",
+        "perfumesandfragrances"
+      ],
+      "categories": [
+        "fashionandclothing",
+        "shoesandfootwear",
+        "bagsandaccessories",
+        "beautyandpersonal care",
+        "makeup",
+        "haircare",
+        "skincare",
+        "perfumesandfragrances"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM"
+      ],
+      "code": "DRRK",
+      "discount": "20% خصم",
+      "discountType": "percentage",
+      "discountValue": 20,
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 20% على جميع المنتجات",
+      "titleEn": "20% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى نمشي",
+          "titleEn": "Visit Namshi",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794314201225",
+      "storeId": "huawei",
+      "categoryId": "mobilesandaccessories",
+      "categoryIds": [
+        "mobilesandaccessories",
+        "electronics"
+      ],
+      "categories": [
+        "mobilesandaccessories",
+        "electronics"
+      ],
+      "countries": [
+        "EG"
+      ],
+      "code": "AQ3EG",
+      "discount": "5% خصم",
+      "discountType": "percentage",
+      "discountValue": "5",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 5% على جميع المنتجات",
+      "titleEn": "5% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى هواوي",
+          "titleEn": "Visit Huawei",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794314253712",
+      "storeId": "huawei",
+      "categoryId": "mobilesandaccessories",
+      "categoryIds": [
+        "mobilesandaccessories",
+        "electronics"
+      ],
+      "categories": [
+        "mobilesandaccessories",
+        "electronics"
+      ],
+      "countries": [
+        "SA"
+      ],
+      "code": "AKSA90",
+      "discount": "10% خصم",
+      "discountType": "percentage",
+      "discountValue": "10",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 10% على جميع المنتجات",
+      "titleEn": "10% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى هواوي",
+          "titleEn": "Visit Huawei",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794314310761",
+      "storeId": "level-shoes",
+      "categoryId": "shoesandfootwear",
+      "categoryIds": [
+        "shoesandfootwear",
+        "bagsandaccessories"
+      ],
+      "categories": [
+        "shoesandfootwear",
+        "bagsandaccessories"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM"
+      ],
+      "code": "PLD77",
+      "discount": "10% خصم",
+      "discountType": "percentage",
+      "discountValue": "10",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 10% على المنتجات المميزة بنجمة",
+      "titleEn": "10% OFF on starred products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى ليفيل شوز",
+          "titleEn": "Visit Level Shoes",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794314393769",
+      "storeId": "foot-locker",
+      "categoryId": "shoesandfootwear",
+      "categoryIds": [
+        "shoesandfootwear",
+        "fashionandclothing",
+        "sportsandfitness"
+      ],
+      "categories": [
+        "shoesandfootwear",
+        "fashionandclothing",
+        "sportsandfitness"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "QA",
+        "EG",
+        "BH"
+      ],
+      "code": "PF68H",
+      "discount": "10% خصم",
+      "discountType": "percentage",
+      "discountValue": "10",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 10% على جميع المنتجات",
+      "titleEn": "10% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى فوت لوكر",
+          "titleEn": "Visit Foot Locker",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794314454193",
+      "storeId": "raising-canes",
+      "categoryId": "restaurantsandcafés",
+      "categoryIds": [
+        "restaurantsandcafés"
+      ],
+      "categories": [
+        "restaurantsandcafés"
+      ],
+      "countries": [
+        "SA"
+      ],
+      "code": "PF55XGWBU",
+      "discount": "40% خصم",
+      "discountType": "percentage",
+      "discountValue": "40",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 40% على أول طلب",
+      "titleEn": "40% OFF on your first order",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى ريزنج كينز",
+          "titleEn": "Visit Raising Cane's",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794314551409",
+      "storeId": "bloomingdales",
+      "categoryId": "fashionandclothing",
+      "categoryIds": [
+        "fashionandclothing",
+        "beautyandpersonal care",
+        "perfumesandfragrances",
+        "skincare",
+        "haircare",
+        "makeup",
+        "bagsandaccessories",
+        "shoesandfootwear"
+      ],
+      "categories": [
+        "fashionandclothing",
+        "beautyandpersonal care",
+        "perfumesandfragrances",
+        "skincare",
+        "haircare",
+        "makeup",
+        "bagsandaccessories",
+        "shoesandfootwear"
+      ],
+      "countries": [
+        "AE",
+        "KW",
+        "SA"
+      ],
+      "code": "PF11",
+      "discount": "20% خصم",
+      "discountType": "percentage",
+      "discountValue": 20,
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 20% على جميع المنتجات",
+      "titleEn": "20% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "2026-12-07",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى بلومينغديلز",
+          "titleEn": "Visit bloomindale's",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794314673241",
+      "storeId": "fnp",
+      "categoryId": "gifts",
+      "categoryIds": [
+        "gifts"
+      ],
+      "categories": [
+        "gifts"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW"
+      ],
+      "code": "PF16",
+      "discount": "12% خصم",
+      "discountType": "percentage",
+      "discountValue": "12",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 12% على جميع المنتجات",
+      "titleEn": "12% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى اف ان بي",
+          "titleEn": "Visit fnp",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794314772945",
+      "storeId": "h&m",
+      "categoryId": "fashionandclothing",
+      "categoryIds": [
+        "fashionandclothing",
+        "bagsandaccessories",
+        "shoesandfootwear",
+        "beautyandpersonal care"
+      ],
+      "categories": [
+        "fashionandclothing",
+        "bagsandaccessories",
+        "shoesandfootwear",
+        "beautyandpersonal care"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW"
+      ],
+      "code": "PFAT8",
+      "discount": "10% خصم",
+      "discountType": "percentage",
+      "discountValue": "10",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 10% على جميع المنتجات",
+      "titleEn": "10% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى اتش أند ام",
+          "titleEn": "Visit H&M",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794314827313",
+      "storeId": "karam-alnakhil",
+      "categoryId": "groceriesandfood",
+      "categoryIds": [
+        "groceriesandfood",
+        "restaurantsandcafés"
+      ],
+      "categories": [
+        "groceriesandfood",
+        "restaurantsandcafés"
+      ],
+      "countries": [
+        "SA"
+      ],
+      "code": "GC",
+      "discount": "6% خصم",
+      "discountType": "percentage",
+      "discountValue": "6",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 6% على جميع المنتجات",
+      "titleEn": "6% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى كرم النخيل",
+          "titleEn": "Visit Karam Alnakhil",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794314894873",
+      "storeId": "dkny",
+      "categoryId": "fashionandclothing",
+      "categoryIds": [
+        "fashionandclothing",
+        "shoesandfootwear",
+        "bagsandaccessories",
+        "perfumesandfragrances"
+      ],
+      "categories": [
+        "fashionandclothing",
+        "shoesandfootwear",
+        "bagsandaccessories",
+        "perfumesandfragrances"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW"
+      ],
+      "code": "GCC2",
+      "discount": "20% خصم",
+      "discountType": "percentage",
+      "discountValue": 20,
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 20% على جميع المنتجات",
+      "titleEn": "20% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى دكني",
+          "titleEn": "Visit DKNY",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794314941161",
+      "storeId": "waffarha",
+      "categoryId": "couponsanddeals",
+      "categoryIds": [
+        "couponsanddeals"
+      ],
+      "categories": [
+        "couponsanddeals"
+      ],
+      "countries": [
+        "EG",
+        "SA"
+      ],
+      "code": "CB",
+      "discount": "10% خصم",
+      "discountType": "percentage",
+      "discountValue": "10",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 10% على جميع المنتجات",
+      "titleEn": "10% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى وفرها",
+          "titleEn": "Visit Waffarha",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794315014506",
+      "storeId": "steve-madden",
+      "categoryId": "fashionandclothing",
+      "categoryIds": [
+        "fashionandclothing",
+        "shoesandfootwear",
+        "bagsandaccessories"
+      ],
+      "categories": [
+        "fashionandclothing",
+        "shoesandfootwear",
+        "bagsandaccessories"
+      ],
+      "countries": [
+        "AE",
+        "SA"
+      ],
+      "code": "SMP110",
+      "discount": "10% خصم",
+      "discountType": "percentage",
+      "discountValue": "10",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 10% على جميع المنتجات",
+      "titleEn": "10% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى ستيف مادن",
+          "titleEn": "Visit Steve Madden",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794315060345",
+      "storeId": "rina",
+      "categoryId": "fashionandclothing",
+      "categoryIds": [
+        "fashionandclothing",
+        "bagsandaccessories",
+        "shoesandfootwear"
+      ],
+      "categories": [
+        "fashionandclothing",
+        "bagsandaccessories",
+        "shoesandfootwear"
+      ],
+      "countries": [
+        "SA"
+      ],
+      "code": "GCC1",
+      "discount": "10% خصم",
+      "discountType": "percentage",
+      "discountValue": "10",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 10% على جميع المنتجات",
+      "titleEn": "10% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى رينا فاشن",
+          "titleEn": "Visit Rina Fashion",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794315105817",
+      "storeId": "blueage",
+      "categoryId": "fashionandclothing",
+      "categoryIds": [
+        "fashionandclothing",
+        "bagsandaccessories"
+      ],
+      "categories": [
+        "fashionandclothing",
+        "bagsandaccessories"
+      ],
+      "countries": [
+        "SA"
+      ],
+      "code": "GCC1",
+      "discount": "12% خصم",
+      "discountType": "percentage",
+      "discountValue": "12",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 12% على جميع المنتجات",
+      "titleEn": "12% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى بلو ايدج",
+          "titleEn": "Visit Blue Age",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794315166857",
+      "storeId": "samsung",
+      "categoryId": "electronics",
+      "categoryIds": [
+        "electronics",
+        "mobilesandaccessories",
+        "homeappliances"
+      ],
+      "categories": [
+        "electronics",
+        "mobilesandaccessories",
+        "homeappliances"
+      ],
+      "countries": [
+        "SA"
+      ],
+      "code": "AFM268",
+      "discount": "10% خصم",
+      "discountType": "percentage",
+      "discountValue": "10",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 10% على جميع المنتجات",
+      "titleEn": "10% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى سامسونج",
+          "titleEn": "Visit Samsung",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794315217033",
+      "storeId": "jeeny",
+      "categoryId": "automotiveandtransportation",
+      "categoryIds": [
+        "automotiveandtransportation"
+      ],
+      "categories": [
+        "automotiveandtransportation"
+      ],
+      "countries": [
+        "SA"
+      ],
+      "code": "PL71",
+      "discount": "40% خصم",
+      "discountType": "percentage",
+      "discountValue": "40",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 40% على أول رحلة",
+      "titleEn": "40% OFF on your first ride",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى جيني",
+          "titleEn": "Visit Jeeny",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794315297106",
+      "storeId": "vogacloset",
+      "categoryId": "fashionandclothing",
+      "categoryIds": [
+        "fashionandclothing",
+        "shoesandfootwear",
+        "bagsandaccessories",
+        "beautyandpersonal care",
+        "perfumesandfragrances",
+        "skincare",
+        "haircare",
+        "makeup"
+      ],
+      "categories": [
+        "fashionandclothing",
+        "shoesandfootwear",
+        "bagsandaccessories",
+        "beautyandpersonal care",
+        "perfumesandfragrances",
+        "skincare",
+        "haircare",
+        "makeup"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM",
+        "EG"
+      ],
+      "code": "09T",
+      "discount": "2% خصم",
+      "discountType": "percentage",
+      "discountValue": "2",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 2% إضافي على خصومات المتجر على جميع المنتجات ",
+      "titleEn": "2% OFF + Store Discount on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى فوغا كلوسيت",
+          "titleEn": "Visit VogaCloset",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794315374649",
+      "storeId": "izil-beauty",
+      "categoryId": "skincare",
+      "categoryIds": [
+        "skincare",
+        "beautyandpersonal care",
+        "haircare",
+        "makeup"
+      ],
+      "categories": [
+        "skincare",
+        "beautyandpersonal care",
+        "haircare",
+        "makeup"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM"
+      ],
+      "code": "P99",
+      "discount": "5% خصم",
+      "discountType": "percentage",
+      "discountValue": "5",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 5% على جميع المنتجات",
+      "titleEn": "5% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى أيزيل بيوتي ",
+          "titleEn": "Visit Izil Beauty",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794315408090",
+      "storeId": "bath-and-body-works",
+      "categoryId": "beautyandpersonal care",
+      "categoryIds": [
+        "beautyandpersonal care",
+        "perfumesandfragrances",
+        "skincare",
+        "haircare",
+        "makeup"
+      ],
+      "categories": [
+        "beautyandpersonal care",
+        "perfumesandfragrances",
+        "skincare",
+        "haircare",
+        "makeup"
+      ],
+      "countries": [
+        "SA",
+        "KW"
+      ],
+      "code": "PFUV",
+      "discount": "5% خصم",
+      "discountType": "percentage",
+      "discountValue": "5",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 5% على جميع المنتجات",
+      "titleEn": "5% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى باث أند بودي ووركس",
+          "titleEn": "Visit Bath & Body Works",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794315455218",
+      "storeId": "kadi",
+      "categoryId": "homeandfurniture",
+      "categoryIds": [
+        "homeandfurniture",
+        "homeandgarden",
+        "gifts"
+      ],
+      "categories": [
+        "homeandfurniture",
+        "homeandgarden",
+        "gifts"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM"
+      ],
+      "code": "LOVIN1",
+      "discount": "5% خصم",
+      "discountType": "percentage",
+      "discountValue": "5",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 5% على جميع المنتجات",
+      "titleEn": "5% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى بوتيك كادي",
+          "titleEn": "Visit Kadi Boutique",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794315511994",
+      "storeId": "naseem",
+      "categoryId": "gifts",
+      "categoryIds": [
+        "gifts",
+        "perfumesandfragrances"
+      ],
+      "categories": [
+        "gifts",
+        "perfumesandfragrances"
+      ],
+      "countries": [
+        "SA"
+      ],
+      "code": "A21",
+      "discount": "5% خصم",
+      "discountType": "percentage",
+      "discountValue": "5",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 5% على جميع المنتجات",
+      "titleEn": "5% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى نسيم",
+          "titleEn": "Visit Naseem",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794315563898",
+      "storeId": "the-body-shop",
+      "categoryId": "beautyandpersonal care",
+      "categoryIds": [
+        "beautyandpersonal care",
+        "perfumesandfragrances",
+        "skincare",
+        "haircare",
+        "makeup"
+      ],
+      "categories": [
+        "beautyandpersonal care",
+        "perfumesandfragrances",
+        "skincare",
+        "haircare",
+        "makeup"
+      ],
+      "countries": [
+        "SA",
+        "AE"
+      ],
+      "code": "PF93",
+      "discount": "10% خصم",
+      "discountType": "percentage",
+      "discountValue": "10",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 10% على جميع المنتجات",
+      "titleEn": "10% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى ذا بودي شوب",
+          "titleEn": "Visit The Body Shop",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794315620473",
+      "storeId": "victorias-secret",
+      "categoryId": "fashionandclothing",
+      "categoryIds": [
+        "fashionandclothing",
+        "bagsandaccessories",
+        "beautyandpersonal care",
+        "perfumesandfragrances",
+        "shoesandfootwear"
+      ],
+      "categories": [
+        "fashionandclothing",
+        "bagsandaccessories",
+        "beautyandpersonal care",
+        "perfumesandfragrances",
+        "shoesandfootwear"
+      ],
+      "countries": [
+        "QA",
+        "KW",
+        "SA",
+        "AE"
+      ],
+      "code": "PFNI",
+      "discount": "15% خصم",
+      "discountType": "percentage",
+      "discountValue": "15",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 15% على جميع المنتجات",
+      "titleEn": "15% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى فيكتوريا سيكريت",
+          "titleEn": "Visit Victoria's Secret",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794315678634",
+      "storeId": "sun-and-sand",
+      "categoryId": "fashionandclothing",
+      "categoryIds": [
+        "fashionandclothing",
+        "shoesandfootwear",
+        "bagsandaccessories",
+        "sportsandfitness"
+      ],
+      "categories": [
+        "fashionandclothing",
+        "shoesandfootwear",
+        "bagsandaccessories",
+        "sportsandfitness"
+      ],
+      "countries": [
+        "KW",
+        "AE",
+        "SA"
+      ],
+      "code": "KBZ2",
+      "discount": "20% خصم",
+      "discountType": "percentage",
+      "discountValue": 20,
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 20% على جميع المنتجات",
+      "titleEn": "20% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى سان اند ساند سبورتس",
+          "titleEn": "Visit Sun & Sand Sports",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794315753002",
+      "storeId": "mothercare",
+      "categoryId": "fashionandclothing",
+      "categoryIds": [
+        "fashionandclothing",
+        "babyandmaternity",
+        "toysandkids"
+      ],
+      "categories": [
+        "fashionandclothing",
+        "babyandmaternity",
+        "toysandkids"
+      ],
+      "countries": [
+        "SA",
+        "KW",
+        "QA",
+        "BH"
+      ],
+      "code": "PFHQL",
+      "discount": "20% خصم",
+      "discountType": "percentage",
+      "discountValue": 20,
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 10% على جميع المنتجات",
+      "titleEn": "10% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى ماذر كير",
+          "titleEn": "Visit Mothercare",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794315835122",
+      "storeId": "myprotein",
+      "categoryId": "sportsandfitness",
+      "categoryIds": [
+        "sportsandfitness"
+      ],
+      "categories": [
+        "sportsandfitness"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM"
+      ],
+      "code": "PF65",
+      "discount": "12% خصم",
+      "discountType": "percentage",
+      "discountValue": "12",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 12% على جميع المنتجات",
+      "titleEn": "12% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى ماي بروتين",
+          "titleEn": "Visit Myprotein",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794315895906",
+      "storeId": "new-balance",
+      "categoryId": "fashionandclothing",
+      "categoryIds": [
+        "fashionandclothing",
+        "shoesandfootwear",
+        "sportsandfitness",
+        "bagsandaccessories"
+      ],
+      "categories": [
+        "fashionandclothing",
+        "shoesandfootwear",
+        "sportsandfitness",
+        "bagsandaccessories"
+      ],
+      "countries": [
+        "SA",
+        "QA",
+        "KW",
+        "BH"
+      ],
+      "code": "PF69N",
+      "discount": "10% خصم",
+      "discountType": "percentage",
+      "discountValue": "10",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 10% على جميع المنتجات",
+      "titleEn": "10% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى نيو بالانس",
+          "titleEn": "Visit New Balance",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794315981314",
+      "storeId": "under-armour",
+      "categoryId": "fashionandclothing",
+      "categoryIds": [
+        "fashionandclothing",
+        "shoesandfootwear",
+        "bagsandaccessories",
+        "sportsandfitness"
+      ],
+      "categories": [
+        "fashionandclothing",
+        "shoesandfootwear",
+        "bagsandaccessories",
+        "sportsandfitness"
+      ],
+      "countries": [
+        "SA",
+        "AE"
+      ],
+      "code": "Z45",
+      "discount": "25% خصم",
+      "discountType": "percentage",
+      "discountValue": "25",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 25% على جميع المنتجات",
+      "titleEn": "25% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى أندر أرمور",
+          "titleEn": "Visit Under Armour",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    },
+    {
+      "id": "c_1794316032115",
+      "storeId": "noon",
+      "categoryId": "fashionandclothing",
+      "categoryIds": [
+        "fashionandclothing",
+        "shoesandfootwear",
+        "bagsandaccessories",
+        "beautyandpersonal care",
+        "makeup",
+        "haircare",
+        "skincare",
+        "perfumesandfragrances",
+        "babyandmaternity",
+        "toysandkids",
+        "homeandfurniture",
+        "sportsandfitness",
+        "homeappliances",
+        "electronics",
+        "mobilesandaccessories",
+        "jewelryandwatches",
+        "homeandgarden",
+        "general",
+        "eyewaer"
+      ],
+      "categories": [
+        "fashionandclothing",
+        "shoesandfootwear",
+        "bagsandaccessories",
+        "beautyandpersonal care",
+        "makeup",
+        "haircare",
+        "skincare",
+        "perfumesandfragrances",
+        "babyandmaternity",
+        "toysandkids",
+        "homeandfurniture",
+        "sportsandfitness",
+        "homeappliances",
+        "electronics",
+        "mobilesandaccessories",
+        "jewelryandwatches",
+        "homeandgarden",
+        "general",
+        "eyewaer"
+      ],
+      "countries": [
+        "EG"
+      ],
+      "code": "MP530",
+      "discount": "10% خصم",
+      "discountType": "percentage",
+      "discountValue": "10",
+      "discountUnit": "percentage",
+      "offerType": "discount",
+      "badges": [],
+      "titleAr": "خصم 10% على جميع المنتجات",
+      "titleEn": "10% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": false,
+      "isVerified": true,
+      "expiryDate": "",
+      "usedCount": 250,
+      "howToUse": [
+        {
+          "titleAr": "انسخ رمز الكوبون",
+          "titleEn": "Copy Voucher Code",
+          "descAr": "اضغط على رمز الكوبون بالأعلى لحفظه في الحافظة فوراً.",
+          "descEn": "Tap on the voucher code above to copy it to clipboard."
+        },
+        {
+          "titleAr": "توجّه إلى نون",
+          "titleEn": "Visit Noon",
+          "descAr": "افتح تطبيق المتجر أو موقعه الرسمي وأضف المنتجات المرغوبة لسلة التسوق.",
+          "descEn": "Open the store app or website and add your selected items to cart."
+        },
+        {
+          "titleAr": "الصق الكود عند الدفع",
+          "titleEn": "Paste & Save at Checkout",
+          "descAr": "الصق الكود في حقل \"الرمز الترويجي\" أو \"كوبون الخصم\" واستمتع بالتوفير الفوري.",
+          "descEn": "Paste the coupon into the promo code box to claim your instant savings."
+        }
+      ],
+      "termsList": []
+    }
+  ],
+  "shareBaseUrl": "https://couponalarab-share.vercel.app",
+  "meta": {
+    "versionUrl": "https://raw.githubusercontent.com/couponalarab/app-data/main/version.json",
+    "dataUrl": "https://raw.githubusercontent.com/couponalarab/app-data/main/coupons.json",
+    "fallbackVersionUrl": "https://raw.githubusercontent.com/couponalarab/app-data/main/version.json",
+    "fallbackDataUrl": "https://raw.githubusercontent.com/couponalarab/app-data/main/coupons.json"
+  },
+  "trendingSearches": [
+    "كود خصم نون",
+    "خصم 50%",
+    "توصيل مجاني",
+    "مكتبة جرير",
+    "هنقرستيشن",
+    "كود نمشي",
+    "سيفورا",
+    "أمازون"
+  ]
+}
