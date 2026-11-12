@@ -4359,10 +4359,10 @@
   ],
   "shareBaseUrl": "https://couponalarab-share.vercel.app",
   "meta": {
-    "versionUrl": "https://raw.githubusercontent.com/couponalarab/app-data/main/version.json",
-    "dataUrl": "https://raw.githubusercontent.com/couponalarab/app-data/main/coupons.json",
-    "fallbackVersionUrl": "https://raw.githubusercontent.com/couponalarab/app-data/main/version.json",
-    "fallbackDataUrl": "https://raw.githubusercontent.com/couponalarab/app-data/main/coupons.json"
+    "versionUrl": "https://raw.githubusercontent.com/couponalarab/app-data-fallback/main/version.json",
+    "dataUrl": "https://raw.githubusercontent.com/couponalarab/app-data-fallback/main/coupons.json",
+    "fallbackVersionUrl": "https://raw.githubusercontent.com/couponalarab/app-data-bedrock/main/version.json",
+    "fallbackDataUrl": "https://raw.githubusercontent.com/couponalarab/app-data-bedrock/main/coupons.json"
   },
   "trendingSearches": [
     "كود خصم نون",
