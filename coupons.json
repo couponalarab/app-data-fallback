@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "updatedAt": "2026-11-10T13:24:56.460Z",
+  "version": "1.0.1",
+  "updatedAt": "2026-11-12T12:31:38.721Z",
   "announcementAr": "🎉 أقوى عروض اليوم في الرياض وجميع المدن - وفّر حتى 70% مع كبرى المتاجر العالمية والمحلية!",
   "announcementEn": "🎉 Today's top offers in Riyadh and all cities - Save up to 70% on top global & local brands!",
   "announcementBar": {
@@ -33,7 +33,15 @@
         "action": {
           "type": "coupon",
           "targetId": "c_1794313384352"
-        }
+        },
+        "countries": [
+          "SA",
+          "AE",
+          "KW",
+          "QA",
+          "BH",
+          "OM"
+        ]
       },
       {
         "id": "ann-1794316910242-jp7n",
@@ -44,7 +52,10 @@
         "action": {
           "type": "coupon",
           "targetId": "c_1794312550784"
-        }
+        },
+        "countries": [
+          "SA"
+        ]
       },
       {
         "id": "ann-1794316983274-ol53",
@@ -55,7 +66,29 @@
         "action": {
           "type": "coupon",
           "targetId": "c_1794312191255"
-        }
+        },
+        "countries": [
+          "SA",
+          "AE",
+          "KW",
+          "QA",
+          "BH",
+          "OM"
+        ]
+      },
+      {
+        "id": "ann-1794486604599-0ym7",
+        "text": {
+          "ar": "خصم حصرى على نون",
+          "en": "Noon exclusive extra discount"
+        },
+        "action": {
+          "type": "coupon",
+          "targetId": "c_1794316032115"
+        },
+        "countries": [
+          "EG"
+        ]
       }
     ]
   },
@@ -109,6 +142,58 @@
         }
       },
       "overlayColor": "#064E3B",
+      "overlayOpacity": 0.65,
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM"
+      ]
+    },
+    {
+      "id": "banner_1794486406776",
+      "imageUrl": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=800&auto=format&fit=crop&q=80",
+      "storeId": "noon",
+      "badge": {
+        "text": {
+          "ar": "عرض حصري 🔥",
+          "en": "Exclusive Deal 🔥"
+        },
+        "textColor": "#FFFFFF",
+        "bgColor": "#EA580C",
+        "icon": "flame"
+      },
+      "headline": {
+        "text": {
+          "ar": "خصم استثنائي 10% لفترة محدودة",
+          "en": "Special 50% OFF Limited Time"
+        },
+        "color": "#FFFFFF"
+      },
+      "subheadline": {
+        "text": {
+          "ar": "استمتع بأقوى التخفيضات على نون",
+          "en": "Enjoy top savings with free delivery"
+        },
+        "color": "#F3F4F6"
+      },
+      "code": "MP530",
+      "countries": [
+        "EG"
+      ],
+      "cta": {
+        "text": {
+          "ar": "احصل على العرض",
+          "en": "Claim Offer"
+        },
+        "action": {
+          "type": "coupon",
+          "targetId": "c_1794316032115"
+        }
+      },
+      "overlayColor": "#000000",
       "overlayOpacity": 0.65
     }
   ],
@@ -559,35 +644,6 @@
       "tags": [],
       "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/dkny.webp",
       "bannerUrl": "https://www.dkny.com/cdn/shop/files/DKNY_DESKTOP_SLOT_2_1421dbfc-c9ae-44f7-96d4-adb843517ec9.jpg?v=1793202189&width=1500"
-    },
-    {
-      "id": "eyewa",
-      "nameAr": "أيوا",
-      "nameEn": "eyewa",
-      "logoUrl": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/eyewa.webp",
-      "coverUrl": "https://prd-cdn.eyewa.com/cdn-cgi/image/width=1440,quality=85,format=auto/https://cdn-ctf-new.eyewa.com/6ojdo2ue4qo1/34URIRDF2UuBHWjb0VEOeM/878bd3c7b5241d43d84332aeb080da73/EN__10_.png",
-      "category": "eyewaer",
-      "categories": [
-        "eyewaer"
-      ],
-      "countries": [
-        "SA",
-        "AE",
-        "KW",
-        "QA",
-        "BH",
-        "OM",
-        "EG"
-      ],
-      "websiteUrl": "https://eyewa.com/",
-      "rating": 4.8,
-      "totalReviews": 120,
-      "descriptionAr": "متجر إلكتروني رائد للنظارات الطبية والشمسية والعدسات اللاصقة.",
-      "descriptionEn": "A leading online store for eyeglasses, sunglasses, and contact lenses.",
-      "isFeatured": true,
-      "tags": [],
-      "logo": "https://cdn.jsdelivr.net/gh/couponalarab/app-data@main/brand-logo/eyewa.webp",
-      "bannerUrl": "https://prd-cdn.eyewa.com/cdn-cgi/image/width=1440,quality=85,format=auto/https://cdn-ctf-new.eyewa.com/6ojdo2ue4qo1/34URIRDF2UuBHWjb0VEOeM/878bd3c7b5241d43d84332aeb080da73/EN__10_.png"
     },
     {
       "id": "fnp",
@@ -4305,17 +4361,12 @@
   "meta": {
     "versionUrl": "https://raw.githubusercontent.com/couponalarab/app-data/main/version.json",
     "dataUrl": "https://raw.githubusercontent.com/couponalarab/app-data/main/coupons.json",
-    "fallbackVersionUrl": "https://raw.githubusercontent.com/couponalarab/app-data-fallback/main/version.json",
-    "fallbackDataUrl": "https://raw.githubusercontent.com/couponalarab/app-data-fallback/main/coupons.json"
+    "fallbackVersionUrl": "https://raw.githubusercontent.com/couponalarab/app-data/main/version.json",
+    "fallbackDataUrl": "https://raw.githubusercontent.com/couponalarab/app-data/main/coupons.json"
   },
   "trendingSearches": [
     "كود خصم نون",
-    "خصم 50%",
     "توصيل مجاني",
-    "مكتبة جرير",
-    "هنقرستيشن",
-    "كود نمشي",
-    "سيفورا",
-    "أمازون"
+    "كود نمشي"
   ]
 }
